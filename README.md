@@ -15,7 +15,7 @@ yarn install
 
 Recommended `node.js` version - `12.16.3`
 
-#### Runing server and front app
+#### Running server and front app
 
 ```bash
 cd client
@@ -24,7 +24,7 @@ or
 yarn all
 ```
 
-#### Runing server
+#### Running server
 
 ```bash
 cd client
@@ -33,7 +33,7 @@ or
 yarn serve
 ```
 
-#### Runing front app
+#### Running front app
 
 ```bash
 cd client
